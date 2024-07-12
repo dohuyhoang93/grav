@@ -1,0 +1,9 @@
+version: '1.2'
+timestamp: 1720754437
+count: 1
+index:
+  admin:
+    storage_key: admin
+    storage_timestamp: 1720754436
+    key: admin
+    email: dohuyhoangvn93@gmail.com
